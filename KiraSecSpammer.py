@@ -17,7 +17,7 @@ print (Fore.BLUE + '''
 ''')
 
 
-url = 'http://services.government.ru/en/letters/form/'
+url = 'https://example.com/contact-us/'
 
 data = {
     'email': 'rekt@gmail.com',
